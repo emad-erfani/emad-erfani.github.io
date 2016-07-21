@@ -2,7 +2,7 @@
 name: Emad Erfani
 #description: "Nifty little description"
 url: ""
-
+title: Emad
 
 # Delete the lines you don't need
 # about 5 elements are recomended
@@ -26,7 +26,7 @@ instagram_username:  your_instagram_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
 #blog_url: "/blog"
 email: mr.emaderfani@gmail.com
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
